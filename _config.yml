@@ -121,21 +121,20 @@ media:
 # mapMobileCenterCoordinates: "-22.815470,-47.071451"
 
 # Location Block
-# Polis de tecnologia
 locationBlockTitle: "Localização"
-eventLocationName: "Pólis de Tecnologia"
-eventLocationLink: "http://polisdetecnologia.com.br/index.html"
-eventStreetAddress: "R. Dr. Ricardo Benetton Martins, 1000"
+eventLocationName: "Centro de Convenções | Unicamp"
+eventLocationLink: "https://www.cdc.proec.unicamp.br/"
+eventStreetAddress: "Avenida Érico Veríssimo, 500"
 eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Parque II do Polo de Alta Tecnologia"
-eventPostalCode: "13086-510"
+eventAddressLocalityRegion: "Cidade Universitária"
+eventPostalCode: "13083-851"
 eventAddressCountry: "Brasil"
-eventStartTime: ""
-eventDoorTime: ""
-eventEndTime: ""
-eventPlaceCoordinates: "-22.816986, -47.044942"
-mapCenterCoordinates: "-22.816986, -47.044942"
-mapMobileCenterCoordinates: "-22.816986, -47.044942"
+eventStartTime: "2019-12-11T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2019-12-11T17:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Local"
