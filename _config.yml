@@ -97,8 +97,8 @@ media:
   title: "Veja como foi o DataFest 18"
   video: "https://www.youtube.com/embed/EpfEhdD0tjg"
   photos:
-    row: 4
-    total: 16
+    row: 2
+    total: 8
   button:
     text: "Confira mais detalhes sobre o DataFest 18"
     link: "https://gdg-campinas.github.io/datafest-2018/"
@@ -108,16 +108,16 @@ locationBlockTitle: "Localização"
 eventLocationName: "Centro de Convenções | Unicamp"
 eventLocationLink: "https://www.cdc.proec.unicamp.br/"
 eventStreetAddress: "Avenida Érico Veríssimo, 500"
-eventAddressLocality: "Campinas - SP"
+eventAddressLocality: "Campinas"
 eventAddressLocalityRegion: "Cidade Universitária"
 eventPostalCode: "13083-851"
 eventAddressCountry: "Brasil"
 eventStartTime: "2019-12-11T9:00"
 eventDoorTime: ""
 eventEndTime: "2019-12-11T17:00"
-eventPlaceCoordinates: "-22.8154701,-47.0714513"
-mapCenterCoordinates: "-22.8154701,-47.0714513"
-mapMobileCenterCoordinates: "-22.8154701,-47.0714513"
+eventPlaceCoordinates: "-22.815470,-47.071451"
+mapCenterCoordinates: "-22.815470,-47.071451"
+mapMobileCenterCoordinates: "-22.815470,-47.071451"
 
 # Venue Block
 venueBlockTitle: "Local"
