@@ -60,7 +60,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "datacenter.jpg"
-heroTitle: "GDG DataFest 19 | <typeout> "
+heroTitle: "GDG DataFest 19 <typeout> "
 eventDate: "11 de dezembro de 2019"
 typeoutTextValues: '"", "Campinas", "Data Science", "Data Engineering", "Management and Business"'
 typeoutFallback: "Campinas"
@@ -74,9 +74,10 @@ aboutBlock:
  - {title: "Data Science", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Data Engineering", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Management & Business", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
-statisticBlockImage: "TPUpod_small.jpg"
+statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "3", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
  - {count: "8", specialCharacter: "", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
@@ -112,12 +113,12 @@ eventAddressLocality: "Campinas"
 eventAddressLocalityRegion: "Cidade Universitária"
 eventPostalCode: "13083-851"
 eventAddressCountry: "Brasil"
-eventStartTime: "2019-12-11T9:00"
+eventStartTime: ""
 eventDoorTime: ""
-eventEndTime: "2019-12-11T17:00"
-eventPlaceCoordinates: "-22.816986, -47.044942"
-mapCenterCoordinates: "-22.816986, -47.044942"
-mapMobileCenterCoordinates: "-22.816986, -47.044942"
+eventEndTime: ""
+eventPlaceCoordinates: "-22.815470,-47.071451"
+mapCenterCoordinates: "-22.815470,-47.071451"
+mapMobileCenterCoordinates: "-22.815470,-47.071451"
 
 # Venue Block
 venueBlockTitle: "Local"
