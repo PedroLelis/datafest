@@ -54,9 +54,9 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/datafest-2019-tickets-48900606029", text: "Ingressos"}
+ - {Engineering: "/#tickets", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/datafest-2019-tickets-48900606029", text: "Ingressos"}
+ - {Engineering: "/#tickets", text: "Ingressos"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
