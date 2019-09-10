@@ -62,7 +62,7 @@ rightNavigationButtons:
 heroImage: "datacenter.jpg"
 heroTitle: "GDG DataFest 19 <typeout> "
 eventDate: "11 de dezembro de 2019"
-typeoutTextValues: '"", "Campinas", "Science", "Engineering", "Business"'
+typeoutTextValues: '"", "Campinas", "Science", "Engineering", "Business", "Workshops"'
 typeoutFallback: "Campinas"
 heroButtons:
  - {link: "https://forms.gle/zckpzgGEX8rBRHyE8", text: "Call4speakers"}
@@ -71,9 +71,9 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o GDG DataFest"
 aboutBlock:
- - {title: "Science", image: "science.jpg", text: "" }
- - {title: "Engineering", image: "engineering.jpg", text: "" }
- - {title: "Business", image: "business.jpg", text: "" }
+ - {title: "Science", image: "business_small.jpg", text: "" }
+ - {title: "Engineering", image: "business.jpg", text: "" }
+ - {title: "Business", image: "business_big.jpg", text: "" }
  - {title: "Workshops", image: "workshops.jpg", text: "" }
 
 # Statistic Block
@@ -86,12 +86,6 @@ statisticBlock:
 
 # # Latest News Block
 # latestNewsTitle: "Últimas notícias"
-
-# Rockstar Speakers Block
-# rockstarSpeakersImage: "background-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Palestrantes passados"
-# rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -121,6 +115,12 @@ venueSmallImage3: "area_externa.jpg"
 venueTitle: "Centro de Convenções | Unicamp"
 venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estacionamento próximo"]
 
+# Rockstar Speakers Block
+rockstarSpeakersImage: "background-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Palestrantes passados"
+# rockstarSpeakersButtonText: "Veja todos os palestrantes"
+
 # Media
 media:
   title: "Veja como foi o DataFest 18"
@@ -131,7 +131,7 @@ media:
   button:
     text: "Confira mais detalhes sobre o DataFest 18"
     link: "https://gdg-campinas.github.io/datafest-2018/"
-    
+
 # Tweets Feed Block
 tweetsFeedImage: "unicamp_campus_noturno.jpg"
 tweetsFeedTitle: "Fique ligado!"
