@@ -71,26 +71,26 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o GDG DataFest"
 aboutBlock:
- - {title: "Data Science", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Data Engineering", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Management & Business", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Science", image: "science.jpg", text: "" }
+ - {title: "Engineering", image: "engineering.jpg", text: "" }
+ - {title: "Business", image: "business.jpg", text: "" }
+ - {title: "Workshops", image: "workshops.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "3", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
- - {count: "8", specialCharacter: "", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
- - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "referências no assunto"}
+ - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
+ - {count: "4", specialCharacter: "+", info: "workshops", detail: "para aprender com a mão na massa"}
+ - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "referências no assunto"}
  - {count: "600", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
 
 # # Latest News Block
-# latestNewsTitle: "Latest news"
+# latestNewsTitle: "Últimas notícias"
 
-# # Rockstar Speakers Block
-# rockstarSpeakersImage: "background-speakers.jpg"
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Destaques"
+# Rockstar Speakers Block
+rockstarSpeakersImage: "background-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Palestrantes passados"
 # rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Media
@@ -103,22 +103,6 @@ media:
   button:
     text: "Confira mais detalhes sobre o DataFest 18"
     link: "https://gdg-campinas.github.io/datafest-2018/"
-
-# # Location Block
-# locationBlockTitle: "Localização"
-# eventLocationName: "Centro de Convenções | Unicamp"
-# eventLocationLink: "https://www.cdc.proec.unicamp.br/"
-# eventStreetAddress: "Avenida Érico Veríssimo, 500"
-# eventAddressLocality: "Campinas"
-# eventAddressLocalityRegion: "Cidade Universitária"
-# eventPostalCode: "13083-851"
-# eventAddressCountry: "Brasil"
-# eventStartTime: ""
-# eventDoorTime: ""
-# eventEndTime: ""
-# eventPlaceCoordinates: "-22.815470,-47.071451"
-# mapCenterCoordinates: "-22.815470,-47.071451"
-# mapMobileCenterCoordinates: "-22.815470,-47.071451"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -135,6 +119,9 @@ eventEndTime: "2019-12-11T17:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
+# eventPlaceCoordinates: "-22.815470,-47.071451"
+# mapCenterCoordinates: "-22.815470,-47.071451"
+# mapMobileCenterCoordinates: "-22.815470,-47.071451"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -148,7 +135,7 @@ venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estaciona
 # Tweets Feed Block
 tweetsFeedImage: "unicamp_campus_noturno.jpg"
 tweetsFeedTitle: "Fique ligado!"
-twitterHashTag: "gdgdatafest"
+twitterHashTag: "datafest"
 twitterFeed: "<< twitter_feed_url >>"
 twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
@@ -163,70 +150,72 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# # Tickets Block
-# ticketsTitle: "Ingressos"
-# ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "110,00"
-#   priceCurrency: "R$"
-#   ticketsNumber: "100"
-#   # ribbon: "-5%"
-#   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
-#   buyButtonText: "Comprar"
-#   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "08/08/2018T00:00"
-#   validThrough: "29/08/2018T23:59"
-#   soldOut: true
-#   soldOutText: "Esgotado"
-#   # disabled: true
-#   # featured: true
-#  -
-#   name: "Ticket"
-#   price: "210,00"
-#   priceCurrency: "R$"
-#   # ticketsNumber: "50"
-#   # ribbon: "-20%"
-#   # featured: true
-#   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
-#   buyButtonText: "Comprar"
-#   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "30/08/2018T00:00"
-#   validThrough: "01/10/2018T23:59"
-#   soldOut: true
-#   soldOutText: "Esgotado"
-#   # disabled: true
-#   # featured: true
-#  -
-#   name: "Late Bird"
-#   price: "280,00"
-#   priceCurrency: "R$"
-#   # ticketsNumber: "20"
-#   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
-#   buyButtonText: "Comprar"
-#   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "01/10/2018T00:00"
-#   validThrough: "30/10/2018T23:59"
-#   # disabled: true
-#   # soldOut: true
-#   # soldOutText: "Esgotado"
-#   featured: true
-#  -
-#   name: "Apenas Camiseta"
-#   price: "40,00"
-#   priceCurrency: "R$"
-#   # ticketsNumber: "20"
-#   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029#tickets"
-#   buyButtonText: "Comprar"
-#   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "08/08/2018T00:00"
-#   validThrough: "21/10/2018T23:59"
-#   # disabled: true
-#   soldOut: true
-#   soldOutText: "Esgotado"
+# Tickets Block
+ticketsTitle: "Ingressos"
+ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "100,00"
+  priceCurrency: "R$"
+  ticketsNumber: "200"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2019T00:00"
+  validThrough: "11/10/2019T23:59"
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Normal Bird"
+  price: "150,00"
+  priceCurrency: "R$"
+  ticketsNumber: "200"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/10/2019T00:00"
+  validThrough: "11/11/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Late Bird"
+  price: "200,00"
+  priceCurrency: "R$"
+  ticketsNumber: "200"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/11/2019T00:00"
+  validThrough: "11/12/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Apenas Camiseta"
+  price: "30,00"
+  priceCurrency: "R$"
+  # ticketsNumber: "200"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2018T00:00"
+  validThrough: "30/11/2018T23:59"
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
