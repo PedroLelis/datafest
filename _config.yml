@@ -62,7 +62,7 @@ rightNavigationButtons:
 heroImage: "datacenter.jpg"
 heroTitle: "GDG DataFest 19 <typeout> "
 eventDate: "11 de dezembro de 2019"
-typeoutTextValues: '"", "Campinas", "Data Science", "Data Engineering", "Management and Business"'
+typeoutTextValues: '"", "Campinas", "Science", "Engineering", "Business"'
 typeoutFallback: "Campinas"
 heroButtons:
  - {link: "https://forms.gle/zckpzgGEX8rBRHyE8", text: "Call4speakers"}
@@ -88,21 +88,10 @@ statisticBlock:
 # latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "background-speakers.jpg"
+# rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Palestrantes passados"
 # rockstarSpeakersButtonText: "Veja todos os palestrantes"
-
-# Media
-media:
-  title: "Veja como foi o DataFest 18"
-  video: "https://www.youtube.com/embed/EpfEhdD0tjg"
-  photos:
-    row: 4
-    total: 8
-  button:
-    text: "Confira mais detalhes sobre o DataFest 18"
-    link: "https://gdg-campinas.github.io/datafest-2018/"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -116,9 +105,9 @@ eventAddressCountry: "Brasil"
 eventStartTime: "2019-12-11T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-12-11T17:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "-22.815470,-47.071451"
+mapCenterCoordinates: "-22.815470,-47.071451"
+mapMobileCenterCoordinates: "-22.815470,-47.071451"
 # eventPlaceCoordinates: "-22.815470,-47.071451"
 # mapCenterCoordinates: "-22.815470,-47.071451"
 # mapMobileCenterCoordinates: "-22.815470,-47.071451"
@@ -132,6 +121,17 @@ venueSmallImage3: "area_externa.jpg"
 venueTitle: "Centro de Convenções | Unicamp"
 venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estacionamento próximo"]
 
+# Media
+media:
+  title: "Veja como foi o DataFest 18"
+  video: "https://www.youtube.com/embed/EpfEhdD0tjg"
+  photos:
+    row: 4
+    total: 8
+  button:
+    text: "Confira mais detalhes sobre o DataFest 18"
+    link: "https://gdg-campinas.github.io/datafest-2018/"
+    
 # Tweets Feed Block
 tweetsFeedImage: "unicamp_campus_noturno.jpg"
 tweetsFeedTitle: "Fique ligado!"
