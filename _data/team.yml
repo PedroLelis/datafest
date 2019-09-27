@@ -23,6 +23,17 @@ main:
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/pereira-felipe/"}
   - 
+    id: 1
+    name: "Guto"
+    surname: "Xavier"
+    title: ""
+    thumbnailUrl: GutoXavier.jpeg
+    team: true
+    ribbon: 
+      - {abbr: "GDG", title: "Google Developer Group"}
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/gutoxavier/"}
+  - 
     id: 2
     name: "Mikaeri"
     surname: "Ohana"
