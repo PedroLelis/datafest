@@ -77,7 +77,7 @@ aboutBlock:
  - {title: "Workshops", image: "workshops.jpg", text: "Os workshops são para quem quer aprender na prática. Aqui teremos instrutores altamente qualificados, demonstrando na prática como solucionar problemas que todos temos e utilizar as mais novas tecnologias." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "TPUpod_small.jpg"
 statisticBlock:
  - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
  - {count: "6", specialCharacter: "", info: "workshops", detail: "para aprender com a mão na massa"}
