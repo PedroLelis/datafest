@@ -155,7 +155,7 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
 ticketsOffers:
  -
-  name: "Conferência - Early Bird"
+  name: "Early Bird"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -171,7 +171,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência - Early Bird Estudante"
+  name: "Early Bird Estudante"
   price: "50,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -187,7 +187,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência - Normal Bird"
+  name: "Normal Bird"
   price: "150,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -203,7 +203,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência - Normal Bird Estudante"
+  name: "Normal Bird Estudante"
   price: "75,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -219,7 +219,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência - Late Bird"
+  name: "Late Bird"
   price: "200,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -235,7 +235,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência - Late Bird Estudante"
+  name: "Late Bird Estudante"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
