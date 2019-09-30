@@ -185,7 +185,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Early Bird"
+  name: "Conferência 11/12<br>Early Bird"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -201,7 +201,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Early Bird Estudante"
+  name: "Conferência 11/12 <br> Early Bird Estudante"
   price: "50,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
