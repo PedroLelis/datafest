@@ -185,7 +185,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12<br>Early Bird"
+  name: "Conferência 11/12 <br> Early Bird"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -217,7 +217,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Normal Bird"
+  name: "Conferência 11/12 <br> Normal Bird"
   price: "150,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -233,7 +233,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Normal Bird Estudante"
+  name: "Conferência 11/12 <br> Normal Bird Estudante"
   price: "75,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -249,7 +249,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Late Bird"
+  name: "Conferência 11/12 <br> Late Bird"
   price: "200,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -265,7 +265,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 - Late Bird Estudante"
+  name: "Conferência 11/12 <br> Late Bird Estudante"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
