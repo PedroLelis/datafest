@@ -152,7 +152,7 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dos workshops dão acesso a todos os workshops no dia 10 de dezembro e os ingressos da conferência dão acesso a todas as trilhas no dia 11 de dezembro. Ingressos dos workshops não serão aceitos para entrada na conferência e ingressos da conferência não serão aceitos para entrada nos workshops.<br><br>A entrada com ingressos de estudantes será permitida somente com a apresentação de um coprovante (carteirinha, boleto de mensalidade, etc.). Em caso de não apresentação do comprovante, a entrada será negada e os ingressos não serão reembolsados e nem será aceito pagamento da diferença para adquirir o ingresso inteiro."
+ticketsInfo: "Os ingressos dos workshops dão acesso a todos os workshops no dia 10 de dezembro e os ingressos da conferência dão acesso a todas as trilhas no dia 11 de dezembro. Ingressos dos workshops não serão aceitos para entrada na conferência e ingressos da conferência não serão aceitos para entrada nos workshops.<br><br>A entrada com ingressos de estudantes será permitida somente com a apresentação de um coprovante válido (carteirinha, boleto de mensalidade, etc.). Em caso de não apresentação de um comprovante válido, a entrada será negada e os ingressos não serão reembolsados e nem será aceito pagamento da diferença para adquirir o ingresso inteiro."
 ticketsOffers:
  -
   name: "Apenas Camiseta"
