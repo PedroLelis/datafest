@@ -23,7 +23,7 @@ main:
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/pereira-felipe/"}
   - 
-    id: 1
+    id: 2
     name: "Guto"
     surname: "Xavier"
     title: ""
@@ -34,7 +34,7 @@ main:
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/gutoxavier/"}
   - 
-    id: 2
+    id: 3
     name: "Mikaeri"
     surname: "Ohana"
     title: ""
@@ -47,7 +47,7 @@ main:
       - {name: "twitter", link: "https://twitter.com/mikaeriohana"}
       - {name: "instagram", link: "https://instagram.com/miohana"}
   - 
-    id: 3
+    id: 4
     name: "Pedro"
     surname: "Lelis"
     title: ""
@@ -60,7 +60,7 @@ main:
       - {name: "github", link: "https://github.com/pedrolelis"}
       - {name: "facebook", link: "https://www.facebook.com/pedroaugusto.lelis"}
   - 
-    id: 4
+    id: 5
     name: "Thaissa"
     surname: "Candella"
     title: ""
