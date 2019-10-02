@@ -116,7 +116,7 @@ venueTitle: "Centro de Convenções | Unicamp"
 venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estacionamento próximo"]
 
 # Rockstar Speakers Block
-# rockstarSpeakersImage: "background-speakers.jpg"
+rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Palestrantes confirmados"
 rockstarSpeakersButtonText: "Veja todos os palestrantes do DataFest 19"
