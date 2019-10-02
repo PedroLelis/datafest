@@ -116,15 +116,15 @@ venueTitle: "Centro de Convenções | Unicamp"
 venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estacionamento próximo"]
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "background-speakers.jpg"
+# rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Palestrantes confirmados"
-rockstarSpeakersButtonText: "Veja todos os palestrantes do DataFest 18"
+rockstarSpeakersButtonText: "Veja todos os palestrantes do DataFest 19"
 
 # Media
 media:
   title: "Veja como foi o DataFest 18"
-  #video: "https://www.youtube.com/embed/EpfEhdD0tjg"
+  video: "https://www.youtube.com/embed/EpfEhdD0tjg"
   photos:
     row: 4
     total: 8
