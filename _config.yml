@@ -118,13 +118,13 @@ venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estaciona
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Palestrantes passados"
+rockstarSpeakersTitle: "Palestrantes confirmados"
 rockstarSpeakersButtonText: "Veja todos os palestrantes do DataFest 18"
 
 # Media
 media:
   title: "Veja como foi o DataFest 18"
-  video: "https://www.youtube.com/embed/EpfEhdD0tjg"
+  #video: "https://www.youtube.com/embed/EpfEhdD0tjg"
   photos:
     row: 4
     total: 8
